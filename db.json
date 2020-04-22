@@ -1,31 +1,38 @@
 {
-  "posts": [
+  "intimacoes": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "jornal": {
+        "nomeJornal": "string",
+        "dataTratamento": "2020-02-26T15:18:27.161Z",
+        "dataDisponibilizacao_Publicacao": "2020-02-26T15:18:27.161Z",
+        "termoReferenciaData": "string"
+      },
+      "textoPublicacao": "string",
+      "titulo": "string",
+      "numeroPublicacao": 0,
+      "numeroArquivo": 0,
+      "cabecalho": "string",
+      "rodape": "string",
+      "codigoRelacionamento": 0,
+      "numeroUnicoProcesso": "string"
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "jornal": {
+        "nomeJornal": "string",
+        "dataTratamento": "2020-02-26T15:18:27.161Z",
+        "dataDisponibilizacao_Publicacao": "2020-02-26T15:18:27.161Z",
+        "termoReferenciaData": "string"
+      },
+      "textoPublicacao": "string",
+      "titulo": "string",
+      "numeroPublicacao": 0,
+      "numeroArquivo": 0,
+      "cabecalho": "string",
+      "rodape": "string",
+      "codigoRelacionamento": 1,
+      "numeroUnicoProcesso": "string"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "erro": false,
+  "status": "string"
 }
