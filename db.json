@@ -1,38 +1,42 @@
 {
-  "intimacoes": [
+  "publicacoes": [
     {
-      "jornal": {
-        "nomeJornal": "string",
-        "dataTratamento": "2020-02-26T15:18:27.161Z",
-        "dataDisponibilizacao_Publicacao": "2020-02-26T15:18:27.161Z",
-        "termoReferenciaData": "string"
-      },
-      "textoPublicacao": "string",
-      "titulo": "string",
-      "numeroPublicacao": 0,
-      "numeroArquivo": 0,
-      "cabecalho": "string",
-      "rodape": "string",
-      "codigoRelacionamento": 0,
-      "numeroUnicoProcesso": "string"
-    },
-    {
-      "jornal": {
-        "nomeJornal": "string",
-        "dataTratamento": "2020-02-26T15:18:27.161Z",
-        "dataDisponibilizacao_Publicacao": "2020-02-26T15:18:27.161Z",
-        "termoReferenciaData": "string"
-      },
-      "textoPublicacao": "string",
-      "titulo": "string",
-      "numeroPublicacao": 0,
-      "numeroArquivo": 0,
-      "cabecalho": "string",
-      "rodape": "string",
-      "codigoRelacionamento": 1,
-      "numeroUnicoProcesso": "string"
+      "intimacoes": [
+        {
+          "jornal": {
+            "nomeJornal": "string",
+            "dataTratamento": "2020-02-26T15:18:27.161Z",
+            "dataDisponibilizacao_Publicacao": "2020-02-26T15:18:27.161Z",
+            "termoReferenciaData": "string"
+          },
+          "textoPublicacao": "string",
+          "titulo": "string",
+          "numeroPublicacao": 0,
+          "numeroArquivo": 0,
+          "cabecalho": "string",
+          "rodape": "string",
+          "codigoRelacionamento": 0,
+          "numeroUnicoProcesso": "string"
+        },
+        {
+          "jornal": {
+            "nomeJornal": "string",
+            "dataTratamento": "2020-02-26T15:18:27.161Z",
+            "dataDisponibilizacao_Publicacao": "2020-02-26T15:18:27.161Z",
+            "termoReferenciaData": "string"
+          },
+          "textoPublicacao": "string",
+          "titulo": "string",
+          "numeroPublicacao": 0,
+          "numeroArquivo": 0,
+          "cabecalho": "string",
+          "rodape": "string",
+          "codigoRelacionamento": 1,
+          "numeroUnicoProcesso": "string"
+        }
+      ],
+      "erro": false,
+      "status": "string"
     }
-  ],
-  "erro": false,
-  "status": "string"
+  ]
 }
